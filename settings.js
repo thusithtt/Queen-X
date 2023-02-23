@@ -23,15 +23,15 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
-global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
+global.session = "NVRmYjNZOGY=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.ownernomer = "94711266526" //ur number
+global.premium = ['94711266526'] //ur premium number
 global.botname = 'QUEEN -X' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
+global.packname = "Mr thusi cccc" //ur sticker watermark packname
 global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
 global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
 
